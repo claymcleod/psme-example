@@ -1,0 +1,18 @@
+[[package]]
+name = "psme"
+version = "0.1.0"
+description = "Python subcommands made easy."
+category = "main"
+optional = false
+python-versions = ">=3.9,<4.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "fecd9f85e9e6407bd642381890c8fa9f647e853d99330be7b4ba964a35354e36"
+
+[metadata.files]
+psme = [
+    {file = "psme-0.1.0-py3-none-any.whl", hash = "sha256:85eb902554eae789435c9ff30cacee32e00e73a8d7b9aa4b48ee4a86aaa6a284"},
+    {file = "psme-0.1.0.tar.gz", hash = "sha256:f89771e39b00dc28a61134fb970ab9863ced9fa16f4c3b616b79314d08e999fd"},
+]
